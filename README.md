@@ -10,7 +10,7 @@ Assassintor 的个人博客
 
 ### 最新
 
-* [世界，你好！Welcome!!](http://www.viif.cn/hello-solo)
+* [世界，你好！Welcome!!](https://www.viif.cn/hello-solo)
 
 
 
