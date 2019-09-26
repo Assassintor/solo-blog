@@ -10,6 +10,17 @@ Assassintor 的个人博客
 
 ### 最新
 
+* [一个提供免费HTTPS证书申请的网站](https://www.realmid.cn/articles/2019/09/26/1569427855455.html)
+* [axios](https://www.realmid.cn/articles/2019/09/25/1569423029640.html)
+* [axios,ajax和fetch的比较](https://www.realmid.cn/articles/2019/09/25/1569422977695.html)
+* [CentOS 7.7 发布，作为CentOS 8.0之前的最后一站](https://www.realmid.cn/articles/2019/09/25/1569420798963.html)
+* [CentOS 8 正式发布，基于Red Hat Enterprise Linux 8 （转)](https://www.realmid.cn/articles/2019/09/25/1569420713857.html)
+* [ Centos 8.0.1905 构建状态](https://www.realmid.cn/articles/2019/09/25/1569420469430.html)
+* [PostMan 接口调试之利器](https://www.realmid.cn/articles/2019/09/25/1569387827278.html)
+* [js模块化编程之彻底弄懂CommonJS和AMD/CMD！（转）](https://www.realmid.cn/articles/2019/09/25/1569386937054.html)
+* [Bower和Npm的区别](https://www.realmid.cn/articles/2019/09/25/1569385817595.html)
+* [MockJs](https://www.realmid.cn/articles/2019/09/25/1569385578257.html)
+* [基于Vue-Cli 脚手架的项目](https://www.realmid.cn/articles/2019/09/25/1569382960429.html)
 * [安装Vue-cli 3.*脚手架](https://www.realmid.cn/articles/2019/09/24/1569325604173.html)
 * [认识计算机操作系统](https://www.realmid.cn/articles/2019/09/23/1569227262564.html)
 * [MESI协议--CPU缓存一致性协议](https://www.realmid.cn/articles/2019/09/23/1569226776013.html)
@@ -19,8 +30,11 @@ Assassintor 的个人博客
 * [NodeJs安装](https://www.realmid.cn/articles/2019/09/23/1569222313059.html)
 * [Vue Ui，Vue组件](https://www.realmid.cn/articles/2019/09/23/1569217906930.html)
 * [25款优秀的 Vue UI组件库](https://www.realmid.cn/articles/2019/09/23/1569216617024.html)
-* [Maven仓库](https://www.realmid.cn/articles/2019/09/23/1569213055985.html)
+
+### 热门
+
 * [搭建博客-b3log/solo](https://www.realmid.cn/articles/2019/09/23/1569210882369.html)
+* [Maven仓库](https://www.realmid.cn/articles/2019/09/23/1569213055985.html)
 
 
 
