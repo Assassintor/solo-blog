@@ -10,6 +10,8 @@ Assassintor 的个人博客
 
 ### 最新
 
+* [JavaScript、TypeScript、ES6三者之间的联系和区别](https://www.viif.cn/articles/2019/09/28/1569655535273.html)
+* [ES6 创建类和对象](https://www.viif.cn/articles/2019/09/28/1569635783690.html)
 * [修改MYSQL的默认连接时长](https://www.viif.cn/articles/2019/09/27/1569591013444.html)
 * [Docker 镜像加速设置](https://www.viif.cn/articles/2019/09/27/1569575996589.html)
 * [一个提供免费HTTPS证书申请的网站](https://www.viif.cn/articles/2019/09/26/1569427855455.html)
@@ -28,15 +30,15 @@ Assassintor 的个人博客
 * [MESI协议--CPU缓存一致性协议](https://www.viif.cn/articles/2019/09/23/1569226776013.html)
 * [栈 溢出，堆 溢出，方法区和运行时常量池 溢出](https://www.viif.cn/articles/2019/09/23/1569226441007.html)
 * [什么是SOA?](https://www.viif.cn/articles/2019/09/23/1569226165812.html)
-* [基于Vue-cli 2.* 快速搭建Vue项目](https://www.viif.cn/articles/2019/09/23/1569223948462.html)
-* [NodeJs安装](https://www.viif.cn/articles/2019/09/23/1569222313059.html)
 
 ### 热门
 
 * [搭建博客-b3log/solo](https://www.viif.cn/articles/2019/09/23/1569210882369.html)
+* [NodeJs安装](https://www.viif.cn/articles/2019/09/23/1569222313059.html)
 * [25款优秀的 Vue UI组件库](https://www.viif.cn/articles/2019/09/23/1569216617024.html)
-* [Vue Ui，Vue组件](https://www.viif.cn/articles/2019/09/23/1569217906930.html)
+* [基于Vue-cli 2.* 快速搭建Vue项目](https://www.viif.cn/articles/2019/09/23/1569223948462.html)
 * [Maven仓库](https://www.viif.cn/articles/2019/09/23/1569213055985.html)
+* [Vue Ui，Vue组件](https://www.viif.cn/articles/2019/09/23/1569217906930.html)
 
 
 
