@@ -33,8 +33,8 @@ Assassintor 的个人博客
 
 ### 热门
 
-* [NodeJs安装](https://www.viif.cn/articles/2019/09/23/1569222313059.html)
 * [搭建博客-b3log/solo](https://www.viif.cn/articles/2019/09/23/1569210882369.html)
+* [NodeJs安装](https://www.viif.cn/articles/2019/09/23/1569222313059.html)
 * [基于Vue-cli 2.* 快速搭建Vue项目](https://www.viif.cn/articles/2019/09/23/1569223948462.html)
 * [25款优秀的 Vue UI组件库](https://www.viif.cn/articles/2019/09/23/1569216617024.html)
 * [什么是SOA?](https://www.viif.cn/articles/2019/09/23/1569226165812.html)
