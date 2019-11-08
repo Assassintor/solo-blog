@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [Idea常用插件分享](https://www.viif.cn/articles/2019/11/09/1573231845555.html)
+* [Idea一些基本设置](https://www.viif.cn/articles/2019/11/09/1573229767353.html)
+* [tomcat安装,JDK安装（windows10）](https://www.viif.cn/articles/2019/11/08/1573224356366.html)
 * [我在 GitHub 上的开源项目](https://www.viif.cn/my-github-repos)
 * [JavaScript、TypeScript、ES6三者之间的联系和区别](https://www.viif.cn/articles/2019/09/28/1569655535273.html)
 * [ES6 创建类和对象](https://www.viif.cn/articles/2019/09/28/1569635783690.html)
@@ -27,14 +30,14 @@
 * [MockJs](https://www.viif.cn/articles/2019/09/25/1569385578257.html)
 * [基于Vue-Cli 脚手架的项目](https://www.viif.cn/articles/2019/09/25/1569382960429.html)
 * [安装Vue-cli 3.*脚手架](https://www.viif.cn/articles/2019/09/24/1569325604173.html)
-* [认识计算机操作系统](https://www.viif.cn/articles/2019/09/23/1569227262564.html)
-* [MESI协议--CPU缓存一致性协议](https://www.viif.cn/articles/2019/09/23/1569226776013.html)
-* [栈 溢出，堆 溢出，方法区和运行时常量池 溢出](https://www.viif.cn/articles/2019/09/23/1569226441007.html)
 
 ### 热门
 
 * [搭建博客-b3log/solo](https://www.viif.cn/articles/2019/09/23/1569210882369.html)
+* [MESI协议--CPU缓存一致性协议](https://www.viif.cn/articles/2019/09/23/1569226776013.html)
+* [栈 溢出，堆 溢出，方法区和运行时常量池 溢出](https://www.viif.cn/articles/2019/09/23/1569226441007.html)
 * [NodeJs安装](https://www.viif.cn/articles/2019/09/23/1569222313059.html)
+* [认识计算机操作系统](https://www.viif.cn/articles/2019/09/23/1569227262564.html)
 * [基于Vue-cli 2.* 快速搭建Vue项目](https://www.viif.cn/articles/2019/09/23/1569223948462.html)
 * [什么是SOA?](https://www.viif.cn/articles/2019/09/23/1569226165812.html)
 * [25款优秀的 Vue UI组件库](https://www.viif.cn/articles/2019/09/23/1569216617024.html)
